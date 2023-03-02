@@ -13,8 +13,8 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 #OPTIONAL
 #Non US-address support coming soon
 org_general_email_inbox: your-email@somedomain.com
-org_street_address: 1355 Market Street #Please include suite number on the line below
-org_address_suite: Suite 900
+org_street_address: 30 Desvouex Road #Please include suite number on the line below
+org_address_suite: Level -1
 org_city: Suva
 org_state: Suva City
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
@@ -47,7 +47,7 @@ publish: false
 
 #COLOR SCHEME
 #Select one of the five color schemes (default, one, two, three, or four)
-color_scheme: default
+color_scheme: two
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
